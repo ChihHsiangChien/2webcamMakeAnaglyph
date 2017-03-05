@@ -1,0 +1,2 @@
+# 2webcamMakeAnaglyph
+同時使用兩台webcam，利用python+OpenCV即時將兩台的影像處理，組合成紅藍立體影片
